@@ -7,7 +7,6 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/-react-yellow?style=flat-square&logo=React&logoColor=white)
 ![Mysql](https://img.shields.io/badge/-Mysql-blue?style=flat-square&logo=Mysql&logoColor=white)
 
