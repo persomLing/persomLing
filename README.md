@@ -19,33 +19,6 @@
 [![NetEase Music](https://img.shields.io/badge/-NetEase%20Music-E20000?style=flat-square&https://music.163.com/#/user/home?id=510543324)](https://music.163.com/#/user/home?id=510543324)
 
 ##  Tools
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaohuooo&layout=compact)](https://github.com/xiaohuooo)
-
- Learning
-
+Learning
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 
-
-
-
-<!--
-![xiaohuooo GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaohuooo&show_icons=true&theme=tokyonight)
-
-My ![Visitor Count](https://profile-counter.glitch.me/xiaohuooo/count.svg) visitor
-**xiaohuooo/xiaohu* is a  _special_  repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-Here are some ideas to get you started:
-
--  I’m currently working on ...
--  I’m currently learning ...
--  I’m looking to collaborate on ...
--  I’m looking for help with ...
--  Ask me about ...
--  How to reach me: ...
--  Pronouns: ...
--  Fun fact: ...
--->
