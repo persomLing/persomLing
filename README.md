@@ -29,7 +29,3 @@
 <div align="center">
   <sub><i>"They don't know I copy-paste from Stack Overflow at the speed of light" ⚡</i></sub>
 </div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,6,11&height=60&section=footer&animation=fadeIn" />
-</div>
