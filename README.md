@@ -13,7 +13,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=persomLingE&theme=redical&hide_border=true&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=FFFFFF&area=true&area_color=FF6B6B" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=persomLing&theme=redical&hide_border=true&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=FFFFFF&area=true&area_color=FF6B6B" />
 </div>
 
 <br>
